@@ -31,7 +31,6 @@
 	<item>wallpaper_12</item>
 	<item>wallpaper_13</item>
 	<item>wallpaper_14</item>
-	<item>wallpaper_15</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -46,7 +45,6 @@
 	<item>WhiteCandy</item>
 	<item>WhiteKat</item>
 	<item>BlackCandy</item>
-	<item>BlackKat</item>
 	<item>PremiumCandy</item>
 	<item>PremiumKat</item>
 	<item>CyberCandy</item>
