@@ -25,14 +25,13 @@
         <item>wallpaper_6</item>
         <item>wallpaper_7</item>
         <item>wallpaper_8</item>
-		<item>wallpaper_9</item>
-		<item>wallpaper_10</item>
-		<item>wallpaper_11</item>
-		<item>wallpaper_12</item>
-		<item>wallpaper_13</item>
-		<item>wallpaper_14</item>
-		<item>wallpaper_15</item>
-		<item>wallpaper_16</item>
+	<item>wallpaper_9</item>
+	<item>wallpaper_10</item>
+	<item>wallpaper_11</item>
+	<item>wallpaper_12</item>
+	<item>wallpaper_13</item>
+	<item>wallpaper_14</item>
+	<item>wallpaper_15</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -43,15 +42,14 @@
         <item>MeanGreen</item>
         <item>PurplePaws</item>
         <item>PrettyPink</item>
-        <item>PlainJane</item>
         <item>gotCandy</item>
-		<item>WhiteCandy</item>
-		<item>WhiteKat</item>
-		<item>BlackCandy</item>
-		<item>BlackKat</item>
-		<item>PremiumCandy</item>
-		<item>PremiumKat</item>
-		<item>CyberCandy</item>
-		<item>CyberKat</item>
+	<item>WhiteCandy</item>
+	<item>WhiteKat</item>
+	<item>BlackCandy</item>
+	<item>BlackKat</item>
+	<item>PremiumCandy</item>
+	<item>PremiumKat</item>
+	<item>CyberCandy</item>
+	<item>CyberKat</item>
     </string-array>
 </resources>
