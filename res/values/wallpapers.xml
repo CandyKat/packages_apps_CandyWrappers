@@ -17,7 +17,6 @@
 <resources>
     <string-array name="wallpapers" translatable="false">
         <item>wallpaper_0</item>
-        <item>wallpaper_1</item>
         <item>wallpaper_2</item>
         <item>wallpaper_3</item>
         <item>wallpaper_4</item>
@@ -31,19 +30,19 @@
 	<item>wallpaper_12</item>
 	<item>wallpaper_13</item>
 	<item>wallpaper_14</item>
+	<item></item>
     </string-array>
 
     <string-array name="info" translatable="false">
         <item>sKATter</item>
-        <item>HoloKat</item>
         <item>CandyRed</item>
         <item>KatAzul</item>
         <item>MeanGreen</item>
-        <item>PurplePaws</item>
-        <item>PrettyPink</item>
-        <item>gotCandy</item>
-	<item>WhiteCandy</item>
-	<item>WhiteKat</item>
+        <item>Moon</item>
+        <item>Layers</item>
+        <item>Teal Paint</item>
+	<item>Red Paint</item>
+	<item>Purple Paint</item>
 	<item>BlackCandy</item>
 	<item>PremiumCandy</item>
 	<item>PremiumKat</item>
